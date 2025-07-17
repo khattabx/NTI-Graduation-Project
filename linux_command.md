@@ -8,7 +8,7 @@ This document summarizes all the Linux terminal commands used throughout the NTI
 
 ## Initial Setup - Log Generator
 
-* The log generator used in this project was cloned from the following GitHub repository:
+* The log generator used in this project:
 
   > [log-generator](NTI-Graduation-Project/tree/main/logGenerator)
 
