@@ -1,6 +1,5 @@
 <h1 align="center">NTI-GRADUATION-PROJECT</h1>
 
-
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/khattabx/NTI-Graduation-Project" />
   <img src="https://img.shields.io/badge/jupyter%20notebook-64.8%25-brightgreen" />
@@ -35,6 +34,17 @@ storage.
 - Data Validation: Ensures data integrity with checksum files, maintaining reliable workflows.
 - Setup & Monitoring: Provides comprehensive Linux command guides for seamless setup and
     system monitoring.
+
+### Steps to Follow
+
+- You will find all the commands and setup instructions in the [Linux_Commands.md](/linux_command.md) file, and the most important file to fully understand the whole process is the [presentation.pdf](/presentation.pdf).
+
+**Main files to check:**
+
+- `logGenerator/log_generator.py` → for log generation.
+- `flumeHdfs.conf` → for Flume configuration.
+- `notebook.ipynb` → for data processing and analysis using PySpark.
+- `presentation.pdf` → to understand the full project flow visually.
 
 ## Getting Started
 
