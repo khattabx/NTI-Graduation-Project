@@ -1,4 +1,6 @@
-# Log Generator and Data Pipeline Project - NTI Graduation Project
+# Linux Commands
+
+## Log Generator and Data Pipeline Project - NTI Graduation Project
 
 This document summarizes all the Linux terminal commands used throughout the NTI graduation project, along with explanations of their purpose and terminal usage structure.
 
