@@ -10,7 +10,7 @@ This document summarizes all the Linux terminal commands used throughout the NTI
 
 * The log generator used in this project:
 
-  > [log-generator](NTI-Graduation-Project/tree/main/logGenerator)
+  > [log-generator](/logGenerator/)
 
 * The log generator directory was placed directly on the Desktop for easier access:
 
